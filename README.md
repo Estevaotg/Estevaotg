@@ -1,15 +1,16 @@
+<div align="center">  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Estevão+Trad!;Eu+tenho+17+anos;e+eu+sou+um+técnico+de+Ti!;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
-([![Gráfico de atividades de Estevaotg](https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=201d1f&color=ff0000&line=b0b1ba&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+<img src="https://github-readme-stats.vercel.app/api?username=Estevaotg&theme=shadow_red&show_icons=true" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Estevaotg&theme=darkF&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
+  
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=FFFFFF&color=ff0000&line=FFFFFF&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /> 
+
+ 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevaotg&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
