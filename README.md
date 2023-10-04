@@ -5,7 +5,7 @@
 ([![Gráfico de atividades de Estevaotg](https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=201d1f&color=ff0000&line=b0b1ba&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Estevaotg&theme=FFFFFF&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Estevaotg&color=FFFFFF&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
