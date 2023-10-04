@@ -1,10 +1,10 @@
 <div align="center">  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Estevão+Trad!;Eu+tenho+17+anos;e+eu+sou+um+técnico+de+Ti!;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-<img src="https://github-readme-stats.vercel.app/api?username=Estevaotg&theme=shadow_red&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Estevaotg&theme=transparent&show_icons=true" />
 
 <p align="center">
 
@@ -66,4 +66,4 @@ Meus hobbies são praticar esportes como basquete e futebol, além de acompanhar
 Meus objetivos são ampliar meus conhecimentos e e efetivamente coloca-los em prática, além de buscar a melhor área de atuação para mim.
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
