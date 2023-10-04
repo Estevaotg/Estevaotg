@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Estevão+Trad!;Eu+tenho+17+anos;e+eu+sou+um+técnico+de+Ti!;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Estevão+Trad!;Eu+tenho+17+anos;e+eu+sou+um+técnico+de+Ti!;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ([![Gráfico de atividades de Estevaotg](https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=201d1f&color=ff0000&line=b0b1ba&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=ff0000f&color=ff0000&line=b0b1ba&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /> 
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Estevaotg&bg_color=FFFFFF&color=ff0000&line=FFFFFF&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevaotg&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
@@ -63,4 +63,4 @@ Meus hobbies são praticar esportes como basquete e futebol, além de acompanhar
 Meus objetivos são ampliar meus conhecimentos e e efetivamente coloca-los em prática, além de buscar a melhor área de atuação para mim.
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
