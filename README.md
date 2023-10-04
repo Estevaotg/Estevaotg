@@ -1,5 +1,5 @@
 <div align="center">  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 
 
@@ -66,4 +66,4 @@ Meus hobbies são praticar esportes como basquete e futebol, além de acompanhar
 Meus objetivos são ampliar meus conhecimentos e e efetivamente coloca-los em prática, além de buscar a melhor área de atuação para mim.
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
